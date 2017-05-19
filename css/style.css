@@ -1,0 +1,22 @@
+html {
+	font-family: 'Raleway', sans-serif;
+}
+
+#header {
+	height:40px;
+	line-height:40px;
+}
+
+.nav-wrapper {
+	padding-left:45px;
+	padding-right:45px;
+	background-color:#9e9e9e ;
+}
+
+a.brand-logo {
+	color:white;
+}
+
+nav ul a {
+	color:white;
+}
